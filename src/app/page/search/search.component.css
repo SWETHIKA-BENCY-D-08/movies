@@ -1,0 +1,26 @@
+.btn{
+    background-color:crimson;
+    color: rgb(249, 249, 249);
+    letter-spacing: 1px;
+}
+
+button:hover{
+    background-color:crimson;
+    color: rgb(249, 249, 249);
+}
+
+img{
+    width: 100px;
+    cursor: pointer;
+}
+
+p{
+    color: aliceblue;
+    margin-left: -50px;
+}
+
+h4{
+    color: rgb(172, 8, 8);
+    font-weight: 800;
+    margin-left: -50px;
+}

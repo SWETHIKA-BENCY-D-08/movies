@@ -1,0 +1,24 @@
+img{
+    width: 100%;
+    height: 80%;
+}
+
+h2{
+    color: crimson;
+}
+
+p{
+    color: aliceblue;
+}
+
+a{
+    background-color: crimson;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: crimson;
+    color: aliceblue;
+    border: 2px solid aliceblue;
+}
